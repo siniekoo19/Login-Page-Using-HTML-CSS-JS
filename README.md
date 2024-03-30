@@ -5,7 +5,10 @@
 [Visit Website](https://siniekoo19.github.io/Login-Page-Using-HTML-CSS-JS/)
 
 ## 🚀 About Me
-👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist and Data Analyst.
+👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Data Scientist, Data Analyst and Web Developer.
+
+## Authors
+[@siniekoo19](https://github.com/siniekoo19)
 
 ## Acknowledgments
 - Thanks to [githubs pages](https://siniekoo19.github.io/Login-Page-Using-HTML-CSS-JS/) for providing a platform to deploy my website.
